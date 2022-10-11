@@ -14,7 +14,9 @@ My Software Engineering journey kicked off in 2018, i developed a keen interest 
 *   ✉️  You can contact me at [abdulyassarmurtala@gmail.com](mailto:abdulyassarmurtala@gmail.com)
 *   🧠  I'm learning Data Structures and Algorithms
 *   🤝  I'm open to collaborating on Data Science Projects, Sofware Development, Web3 development, and anything that would force my brain to step out of it's comfort zone and learn new programming languages.
-*   ⚡  I love poetry, spoken words and lifting weights.### Skills 
+*   ⚡  I love poetry, spoken words and lifting weights.
+
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
