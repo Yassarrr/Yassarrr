@@ -1,14 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulyassar Murtala
 ===========================================================================================================================================
 
-MIS-Data Engineer | Software Engineer| Solidity Developer| Monitoring & Evaluation Analyst| Project Manager
+Data Analyst | Business Intelligence| Marketing Analytics 
 -----------------------------------------------------------------------------------------------------------
+A data professional with an extensive cross functional background that spans across Data Management and Analysis, Business Intelligence, Monitoring and Evaluation, Management Information system (MIS) and Marketing Analytics.
 
-I have worked as a Data Engineer for 7 years and successfully executed several Business Intelligence Projects using Data Analysis and Visualization tools, I have designed data pipelines and models that eased the process of reading, cleaning and exploring data. 
+Worked for 7 years in Data Analytics and Marketing Management field, translating data into business solutions, providing insights for decisions making, implementing business development plans, Creating ETL Pipelines and Data Warehouses, desiging Interactive Dashboards, Managing Database, and presentations of data reports. 
 
-I am currently holding the position of Management Information System Data Analyst, under this position i performed Analysis on company-wide progress using monitoring and evaluation tools, created reporting dashboards, Q1 Q2 and Annual reviews, strategic planning and project management. 
+Skilled in SQL, Python, Spreadsheets, PowerBI, Google Analytics, Tableau, Hadoop, Shell, Git, Airflow and Kafka.
 
-My Software Engineering journey kicked off in 2018, i developed a keen interest in programming, and i am currently undergoing a software engineering training with ALX-Africa, Solidity programming with HiMark Academy.
+
+
+
+
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [abdulyassarmurtala@gmail.com](mailto:abdulyassarmurtala@gmail.com)
